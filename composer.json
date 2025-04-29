@@ -1,5 +1,5 @@
 {
-	"name": "jkuchar/pdfresponse",
+	"name": "involve-digital/pdfresponse",
 	"description": "PdfResponse is wrapper of mPDF for Nette.",
 	"license": "LGPL-2.0-or-later",
 	"scripts": {
